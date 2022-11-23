@@ -1,0 +1,38 @@
+Entrance Hall; Foyer
+Foyer; Entrance Hall, Library, Dining Hall, Conservatory
+Conservatory; Foyer, Graveyard, Gardens
+Graveyard; Conservatory
+Gardens; Conservatory
+Library; Foyer, Storeroom
+Storeroom; Library, Larder
+Larder; Storeroom, Kitchen
+Kitchen; Larder, Charred Room, Dining Hall
+Charred Room; Kitchen
+Dining Hall; Kitchen, Patio, Foyer, Ballroom
+Ballroom; Dining Hall
+Patio; Dining Hall
+
+Upper Landing; Dusty Hallway
+Dusty Hallway; Upper Landing, Game Room, Collapsed Room, Bedroom
+Game Room; Dusty Hallway
+Collapsed Room; Dusty Hallway
+Bedroom; Dusty Hallway, Junk Room, Balcony, Creaky Hallway
+Balcony; Bedroom
+Junk Room; Bedroom, Abandoned Room
+Creaky Hallway; Bedroom, Abandoned Room, Chasm
+Chasm; Creaky Hallway, Tower
+Tower; Chasm
+Abandoned Room; Creaky Hallway, Junk Room, Attic
+Attic; Abandoned Room
+
+Basement Landing; Catacombs
+Catacombs; Basement Landing, Chapel, Crypt, Statuary Corridor
+Chapel; Catacombs
+Crypt; Catacombs
+Statuary Corridor; Catacombs, Underground Lake, Furnace Room, Gallery
+Underground Lake; Statuary Corridor
+Furnace Room; Statuary Corridor
+Gallery; Statuary Corridor, Research Laboratory, Vault
+Research Laboratory; Gallery
+Vault; Gallery, Wine Cellar
+Wine Cellar; Vault
